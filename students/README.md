@@ -52,4 +52,8 @@ GET /students
   }
 ]
 ```
+http://localhost:8080/students
+
+![img.png](img.png)
+
 <img width="1097" height="924" alt="image" src="https://github.com/user-attachments/assets/486bad1f-c42f-4143-8719-2cb7b60743a9" />
