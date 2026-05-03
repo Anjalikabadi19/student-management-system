@@ -52,3 +52,7 @@ GET /students
   }
 ]
 ```
+http://localhost:8080/students
+
+![img.png](img.png)
+
